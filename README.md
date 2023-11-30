@@ -7,13 +7,9 @@ npm i express </br>
 npm init @eslint/config </br>
 npm i -D jest </br> </hr>
 
-
 # excuting commands
 
-npm run start
-npm run lint
-npm run lint:fix
-npm run test:coverage
-
-
-
+npm run start </br>
+npm run lint </br>
+npm run lint:fix </br>
+npm run test:coverage </br>
