@@ -17,6 +17,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/injin0301/Ynov-CI-M1/issues"
   },

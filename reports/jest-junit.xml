@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="0" failures="0" errors="0" time="0.621">
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="2.278">
+  <testsuite name="__tests__\computes.js" errors="0" failures="0" skipped="0" timestamp="2023-11-30T15:15:09" time="1.916" tests="3">
+    <testcase classname="ComputeService" name="should add two numbers" time="0.002">
+    </testcase>
+    <testcase classname="ComputeService" name="should add multiple numbers" time="0">
+    </testcase>
+    <testcase classname="ComputeService" name="should subtract two numbers" time="0">
+    </testcase>
+  </testsuite>
 </testsuites>
