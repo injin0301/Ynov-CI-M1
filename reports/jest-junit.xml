@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="3" failures="0" errors="0" time="1.965">
-  <testsuite name="__tests__\computes.js" errors="0" failures="0" skipped="0" timestamp="2023-11-30T17:22:19" time="1.422" tests="3">
-    <testcase classname="ComputeService" name="should add two numbers" time="0.004">
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="6.925">
+  <testsuite name="__tests__\computes.js" errors="0" failures="0" skipped="0" timestamp="2023-11-30T17:33:51" time="6.427" tests="3">
+    <testcase classname="ComputeService" name="should add two numbers" time="0.005">
     </testcase>
-    <testcase classname="ComputeService" name="should add multiple numbers" time="0">
+    <testcase classname="ComputeService" name="should add multiple numbers" time="0.006">
     </testcase>
     <testcase classname="ComputeService" name="should subtract two numbers" time="0.001">
     </testcase>
